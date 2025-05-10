@@ -25,6 +25,10 @@ You can check out the complete article on this this Project: [Credit Card Financ
  - Feel free to customize the dashboard according to your specific requirements.
  - You can modify existing visualizations, add new ones, or incorporate additional data sources as needed.
 
+📊 **Credit Card Financial Analysis Presentation:**  
+A comprehensive slide deck summarizing key insights, visualizations, and analysis from my Data Science & Analytics project on Credit Card Finance. 
+[View the Presentation PDF]([abcd](https://github.com/nibeditans/Credit-Card-Financial-Dashboard/blob/main/Credit%20Card%20Financial%20Report%20Presentation.pdf))
+
 ## Feedback and Contributions:
 Feedback and contributions are welcome! If you have any suggestions, enhancements, or would like to report an issue, please feel free to open an issue or submit a pull request on GitHub.
 
