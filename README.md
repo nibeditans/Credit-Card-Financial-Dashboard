@@ -1,4 +1,4 @@
-# Credit-Card-Financial-Dashboard
+# Credit Card Financial Dashboard
 This is a Credit Card Financial Report created using Power BI.
 
 ## Project Overview:
