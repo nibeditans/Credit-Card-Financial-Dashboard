@@ -2,7 +2,7 @@
 This is a Credit Card Financial Report created using Power BI.
 
 ## Project Overview:
-The "Credit Card Financial Dashboard" is a Power BI project aimed at providing a comprehensive view of credit card operations on a weekly basis. This dashboard offers real-time insights into key performance metrics and trends, empowering stakeholders to monitor and analyze credit card operations effectively.
+The `Credit Card Financial Dashboard` is a Power BI project aimed at providing a comprehensive view of credit card operations on a weekly basis. This dashboard offers real-time insights into key performance metrics and trends, empowering stakeholders to monitor and analyze credit card operations effectively.
 
 You can check out the complete article I've written on this Project: [Credit Card Financial Dashboard](https://nsworldinfo.medium.com/credit-card-financial-dashboard-f99bd6263b5a)
 
