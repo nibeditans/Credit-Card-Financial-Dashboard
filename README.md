@@ -30,6 +30,8 @@ A comprehensive slide deck summarizing key insights, visualizations, and analysi
 
 - [View the Presentation PDF](https://github.com/nibeditans/Credit-Card-Financial-Dashboard/blob/main/Credit%20Card%20Financial%20Report%20Presentation.pdf)
 
+Wanna explore more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) Page.😄
+
 ## Feedback and Contributions:
 Feedback and contributions are welcome! If you have any suggestions, enhancements, or would like to report an issue, please feel free to open an issue or submit a pull request on GitHub.
 
